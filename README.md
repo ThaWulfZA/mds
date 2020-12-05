@@ -1,3 +1,3 @@
-# wulfcorp.github.io
+# mds.github.io
 
-Your site is published at https://thawulfza.github.io/wulfcorp/
+Your site is published at https://thawulfza.github.io/mds/.
